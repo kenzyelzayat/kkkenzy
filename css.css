@@ -1,0 +1,67 @@
+.logo{
+   text-align: center;
+}
+.test1  {
+   display: flex;
+   justify-content: space-evenly;
+}
+.test1 p {
+    font-size: 25px;
+    color: #8f92be ;
+}
+.num{
+    font-size: 35px;
+    color: #8f92be;
+    text-align: center;
+}
+.test2{
+    text-align: center;
+    font-size: 30px;
+    color: #8f92be ;
+}
+.test3{
+    display: flex;
+}
+.test3 p{
+    font-size: 20px;
+    color:  #8f92be;
+}
+.test4{
+    display: flex;
+
+}
+.test4 p{
+    font-size: 20px;
+    color:  #8f92be;
+
+}
+.test5{
+    display: flex;
+
+}
+.test5 p{
+    font-size: 20px;
+    color:  #8f92be;
+}
+.test6{
+    display: flex;
+    
+}
+.test6 p{
+    font-size: 20px;
+    color:  #8f92be;
+}
+.test7{
+    display: flex;
+    
+}
+.test7 p{
+    font-size: 20px;
+    color:  #8f92be;
+}
+.test8{
+    text-align: center;
+    font-size: 30px;
+    color: #8f92be ;
+   
+}
